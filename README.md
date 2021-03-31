@@ -1,1 +1,2 @@
-# arnav
+# synchronousBallMovement
+Ball moving synchronously
